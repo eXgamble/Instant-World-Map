@@ -1,0 +1,7 @@
+skse/build/
+skse/vcpkg_installed/
+skse/build.log
+.vs/
+.vscode/
+Thumbs.db
+mod/meta.ini
